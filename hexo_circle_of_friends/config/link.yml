@@ -140,34 +140,27 @@
   link: https://226yzy.com/
   feed: https://226yzy.com/atom.xml
   avatar: https://s4.ax1x.com/2021/12/11/oTDujJ.jpg
-  descr: 记录一枚菜鸟的征程
+  
+- name: 无影博客
+  link: https://661111.github.io/
+  feed: https://661111.github.io/atom.xml
+  avatar: https://661111.github.io/images/avatar.png
+  descr: 我是无影,主要更新blibli的几部沙雕动画.有时间会更别的东西
+  
+- name: Xhofe's Blog
+  link: https://nn.ci/
+  feed: https://nn.ci/atom.xml
+  avatar: https://nn.ci/images/avatar.png
+  descr: 晚来天欲雪，能饮一杯无？
+  
+- name: 零叁的个人博客
+  link: https://blog.lingerbhw.cn/
+  feed: https://blog.lingerbhw.cn/atom.xml
+  avatar: https://status.lingerbhw.cn/upload/logo1.png?t=1662797253183
+  descr: 我醉欲眠卿且去，明朝有意抱琴来  
 
-- name: Hajeekn's Blog
-  link: https://blog.slqwq.cn/
-  feed: https://blog.slqwq.cn/atom.xml
-  avatar: https://npm.elemecdn.com/perorepe-cdn@1.0.0/v1/static-files/avatar.webp
-  descr: 梦中做梦,做了个白日梦
-
-- name: Rootlex's Blog
-  link: https://blog.nalex.top/
-  feed: https://blog.nalex.top/feed/atom
-  avatar: https://bu.dusays.com/2022/01/24/445fb4d1af3e6.jpg
-  descr: 寒蝉黎明之时，便是重生之日 !
-
-- name: 小康博客
-  link: https://www.antmoe.com/
-  feed: https://www.antmoe.com/atom.xml
-  avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
-  descr: 一个收藏回忆与分享技术的地方！
-
-- name: cyp0633's blog
-  link: https://cyp0633.icu/
-  feed: https://cyp0633.icu/feed/rss2
-  avatar: https://cyp0633.icu/wp-content/uploads/2021/12/cropped-PornHubLogo.png
-  descr: 我们都曾是海滩上玩沙堡的孩子。现在仍是，只不过不在海滩上罢了。
-
-- name: Mufanc
-  link: https://blog.mufanc.xyz
-  feed: https://blog.mufanc.xyz/atom.xml
-  avatar: https://blog.mufanc.xyz/assets/images/avatar.jpeg
-  descr: 永不落幕の前奏詩
+- name: 零叁的个人博客
+  link: https://blog.lingerbhw.cn/
+  feed: https://blog.lingerbhw.cn/atom.xml
+  avatar: https://status.lingerbhw.cn/upload/logo1.png?t=1662797253183
+  descr: 我醉欲眠卿且去，明朝有意抱琴来    
